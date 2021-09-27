@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+print ("A new test file")
+=======
+>>>>>>> d42803f (Added two files and deleted test.py)
+print ("A new test file")
